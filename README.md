@@ -1,1 +1,1 @@
-# Python-Jupyter-Tesla-Project
+# The notebook is on Data collection using yfinance and BeautifulSoup
